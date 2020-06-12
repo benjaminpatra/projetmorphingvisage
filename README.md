@@ -1,4 +1,4 @@
-# Faces Morphing Project
+# Morphing Faces Project
 Projet 1A Morphing de Visages
 
 Project realized during my studies at the ENSAE Paris. 
